@@ -1,0 +1,16 @@
+C:\Users\Slavik\Desktop\Deodorant Evaporator\obj\Debug\net5.0\Deodorant Evaporator.csproj.AssemblyReference.cache
+C:\Users\Slavik\Desktop\Deodorant Evaporator\obj\Debug\net5.0\Deodorant Evaporator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slavik\Desktop\Deodorant Evaporator\obj\Debug\net5.0\Deodorant Evaporator.AssemblyInfoInputs.cache
+C:\Users\Slavik\Desktop\Deodorant Evaporator\obj\Debug\net5.0\Deodorant Evaporator.AssemblyInfo.cs
+C:\Users\Slavik\Desktop\Deodorant Evaporator\obj\Debug\net5.0\Deodorant Evaporator.csproj.CoreCompileInputs.cache
+C:\Users\Slavik\Desktop\Deodorant Evaporator\bin\Debug\net5.0\Deodorant Evaporator.exe
+C:\Users\Slavik\Desktop\Deodorant Evaporator\bin\Debug\net5.0\Deodorant Evaporator.deps.json
+C:\Users\Slavik\Desktop\Deodorant Evaporator\bin\Debug\net5.0\Deodorant Evaporator.runtimeconfig.json
+C:\Users\Slavik\Desktop\Deodorant Evaporator\bin\Debug\net5.0\Deodorant Evaporator.runtimeconfig.dev.json
+C:\Users\Slavik\Desktop\Deodorant Evaporator\bin\Debug\net5.0\Deodorant Evaporator.dll
+C:\Users\Slavik\Desktop\Deodorant Evaporator\bin\Debug\net5.0\ref\Deodorant Evaporator.dll
+C:\Users\Slavik\Desktop\Deodorant Evaporator\bin\Debug\net5.0\Deodorant Evaporator.pdb
+C:\Users\Slavik\Desktop\Deodorant Evaporator\obj\Debug\net5.0\Deodorant Evaporator.dll
+C:\Users\Slavik\Desktop\Deodorant Evaporator\obj\Debug\net5.0\ref\Deodorant Evaporator.dll
+C:\Users\Slavik\Desktop\Deodorant Evaporator\obj\Debug\net5.0\Deodorant Evaporator.pdb
+C:\Users\Slavik\Desktop\Deodorant Evaporator\obj\Debug\net5.0\Deodorant Evaporator.genruntimeconfig.cache

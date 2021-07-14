@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Deodorant Evaporator/1.0.0": {
+        "runtime": {
+          "Deodorant Evaporator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Deodorant Evaporator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
